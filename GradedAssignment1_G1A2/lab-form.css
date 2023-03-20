@@ -30,6 +30,10 @@ section {
     height: auto;
 }
 
+#form_details h2 {
+    margin-right: 50%;
+}
+
 #form_details input {    
     display: inline-block;
     border: 1px solid #ffffff;
